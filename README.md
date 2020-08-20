@@ -6,7 +6,7 @@ Flutter is Google's UI toolkit for building beautiful, natively compiled applica
 
 ## About I Am Poor
 
-This repository presents you with an application that displays an image on the screen, it also has the application icon set for Android and iOS.
+This repository presents you with an application that displays an image on the screen about the current state, it also has the application icon set for Android and iOS.
 
 <img src="i_am_poor.gif" width="300">
 
